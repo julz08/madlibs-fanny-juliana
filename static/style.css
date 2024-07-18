@@ -1,3 +1,4 @@
+
 #complete{
     display: flex;
     flex-direction: row;
@@ -16,4 +17,10 @@
     background-color: rgb(228, 152, 152);
     color:rgb(61, 31, 31);
     size: 15px;
+}
+
+.madlibInput{
+    display: flex;
+    justify-content: center;
+    text-align: center;
 }
