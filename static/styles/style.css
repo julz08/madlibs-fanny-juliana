@@ -6,6 +6,7 @@
     margin: 10px;
     flex-wrap: wrap;
     justify-content: center;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
 
 #title{
@@ -16,6 +17,7 @@
 #paragraph{
     background-color: rgb(228, 152, 152);
     color:rgb(61, 31, 31);
+    padding: 20px;
     size: 15px;
 }
 
