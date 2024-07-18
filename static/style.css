@@ -1,0 +1,19 @@
+div{
+    display: flex;
+    flex-direction: row;
+    padding: 10px;
+    margin: 10px;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+h1{
+    size: 32px;
+    color:rgb(61, 31, 31);
+}
+
+p{
+    background-color: rgb(228, 152, 152);
+    color:rgb(61, 31, 31);
+    size: 15px;
+}
