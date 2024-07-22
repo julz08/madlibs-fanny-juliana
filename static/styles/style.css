@@ -47,6 +47,13 @@ div{
 }
 
 .inputBox1{
-    width: 100px;
-    height: 35px;
+    width: 150px;
+    height: 30px;
+    padding-top: 15px;
+}
+
+#submit{
+    font-size: 25px;
+    height: 50px;
+    width: 130px;
 }
