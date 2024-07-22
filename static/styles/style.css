@@ -10,15 +10,15 @@
     font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
 
-#title{
-    color:rgb(61, 31, 31);
+.title{
     border-style:groove;
     border-color:darkseagreen;
-    background-color: rgb(134, 194, 134);
     border-radius: 20px;
-    padding: 50px;
-    margin-left: 30px;
-    margin-right: 30px;
+    margin: 30px;
+    text-align: center;
+    background-color: rgb(134, 194, 134);
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif; 
+    font-size: 30px;
 }
 
 #paragraph{
@@ -54,6 +54,10 @@
     border-color:darkseagreen;
     border-radius: 20px;
     margin: 30px;
+    text-align: center;
+    background-color: rgb(134, 194, 134);
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif; 
+    font-size: 30px;
 }
 
 div{
